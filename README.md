@@ -7,7 +7,17 @@
 
 - 📫 How to reach me **barazatracy44@gmail.com**
 
-- ⚡ Fun fact **I think am funnny**
+- ⚡ Fun fact **I think am funnny and i love to design and code**
+- 
+-  🐱‍🚀A little more about me...
+const TracyMiranja = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["she", "her"],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, UI/UX,],
+  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
+  challenge: "I am honing my JS skills and picking up TypeScript",
+  funFacts: ['I think am funnny and i love to design and code']
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

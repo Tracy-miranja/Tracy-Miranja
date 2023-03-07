@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think am funnny and i love to design and code**
   🐱‍**🚀A little more about me...**
-*const TracyMiranja = {*
+const TracyMiranja = { </br>
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, UI/UX,],

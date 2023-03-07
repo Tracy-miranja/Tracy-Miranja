@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Tracy Miranja</h1>
+<h1 align="center">Hi 👋, I'm Tracy Miranja</h1>
 <h3 align="center">A passionate full stuck developer from Nairobi,Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tracy-miranja&label=Profile%20views&color=0e75b6&style=flat" alt="tracy-miranja" /> </p>
@@ -7,16 +7,7 @@
 
 - 📫 How to reach me **barazatracy44@gmail.com**
 
-- ⚡ Fun fact **I think am funnny and i love to design and code**
-  🐱‍**🚀A little more about me...**
-const TracyMiranja = { </br>
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, UI/UX,],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am honing my JS skills and picking up TypeScript",
-  funFacts: ['I think am funnny and i love to design and code']
-}
+- ⚡ Fun fact **I think am funnny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,5 +33,3 @@ const TracyMiranja = { </br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tracy-miranja&" alt="tracy-miranja" /></p>
 
-.
--->
